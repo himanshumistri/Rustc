@@ -1,5 +1,5 @@
 # Rustc
-About learn the Rust Language
+About learning the Rust Language
 
 # Installation on the local computer
 Run following command on terminal from Macos, Linux OS
