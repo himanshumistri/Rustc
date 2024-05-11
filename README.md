@@ -1,6 +1,10 @@
 # Rustc
 All About Learning the Rust Language, Posted program which i am using to learn this Rust
 
+# Top open Rust book installed into your system use below command from terminal 
+
+```rustup docs --book```
+
 # Installation on the local computer
 Run following command on terminal from Macos, Linux OS
 
